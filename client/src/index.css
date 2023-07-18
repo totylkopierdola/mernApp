@@ -1,0 +1,22 @@
+/* Common styling */
+
+.card {
+  box-shadow: 0 0 2px grey;
+}
+
+
+/* authentication */
+
+.authentication {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.authenticaction-form {
+  /* border: 1px solid grey; */
+  /* padding: 20px 50px; */
+  /* border-radius: 10px; */
+  width: 25vw;
+}
